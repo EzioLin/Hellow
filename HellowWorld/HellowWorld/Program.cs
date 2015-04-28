@@ -15,6 +15,7 @@ namespace HellowWorld
             Console.WriteLine("hellow world ggg");
             Console.WriteLine("hellow world kkk");
             Console.WriteLine("hellow world 哈哈哈");
+            Console.WriteLine("hellow world 成功了");
         }
     }
 }
